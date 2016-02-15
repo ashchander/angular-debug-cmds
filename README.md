@@ -1,6 +1,7 @@
 # Angular Debug Commands
 
 Browser console commands to help with debugging Angular 1.x apps
+
 Inspect the target element first, or replace $0 with a selector for the target element.
 
 ### Scope
