@@ -8,6 +8,8 @@ Inspect the target element first, or replace $0 with a selector for the target e
 
 ```
 var myScope = angular.element($0).scope()
+
+var myScope = angular.element($0).isolateScope() // for a directive's isolated scope
 ```
 
 ### Controller
